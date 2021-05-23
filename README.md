@@ -1,5 +1,5 @@
 # hexapod_math
-Simulink models for the hexapod robot. <br>
+Simulink models for a hexapod robot. <br>
 <br>
 There are two files: <br>
     - fkine.slx - solving the forward kinematic problem for all hexapod legs<br>
